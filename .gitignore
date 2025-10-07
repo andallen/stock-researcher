@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Generated research reports
+*.md
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+venv/
