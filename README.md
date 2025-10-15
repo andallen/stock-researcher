@@ -15,8 +15,8 @@ Disclaimer: This project is for informational and educational purposes only. It 
 
 2) **Open Terminal, clone, and enter the folder**
 ```bash
-git clone <your-repo-url> pythonparrot-stock-researcher
-cd pythonparrot-stock-researcher
+git clone <your-repo-url> andallen-stock-researcher
+cd andallen-stock-researcher
 ```
 
 3) **Create a virtual environment and install packages**
