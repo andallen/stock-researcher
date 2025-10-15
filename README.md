@@ -15,8 +15,8 @@ Disclaimer: This project is for informational and educational purposes only. It 
 
 2) **Open Terminal, clone, and enter the folder**
 ```bash
-git clone <your-repo-url> andallen-stock-researcher
-cd andallen-stock-researcher
+git clone https://github.com/andallen/stock-researcher.git
+cd stock-researcher
 ```
 
 3) **Create a virtual environment and install packages**
